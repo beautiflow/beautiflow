@@ -1,5 +1,7 @@
 ### Hi there 👋 HELLOnayeon 🙌
 
+- CNU SW Academy 1기 수료
+
 <!--
 **beautiflow/beautiflow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
