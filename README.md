@@ -1,4 +1,4 @@
-<img src="https://HELLOnayeon 🙌.vercel.app/api?type=wave&color=random&height=300&section=header&text=HELLOnayeon 🙌%20render&fontSize=90" />
+<img src="https://.vercel.app/api?type=wave&color=random&height=300&section=header&text=%20render&fontSize=90" />
 
 
 ### Hi there 👋 HELLOnayeon 🙌
