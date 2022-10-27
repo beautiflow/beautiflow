@@ -1,6 +1,9 @@
 
 
-### Hi there 👋 HELLOnayeon 🙌
+
+### Hi there <img width="40px" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"> HELLOnayeon <img width="40px" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif">
+
+🌱 I’m currently learning backendprograms.
 
 - CNU SW Academy 1기 수료
 
@@ -44,7 +47,7 @@
 
   <br>
 
-### Connect with me:
+### 📍 Connect with me:
 [<img align="left" alt="SOKURI_CODE | Instagram" width="48px" src="https://img.icons8.com/color/48/000000/instagram-new--v2.png" />][instagram]
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:rlatngus1691@naver.com)](mailto:1114ny@naver.com)
 
