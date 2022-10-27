@@ -44,16 +44,14 @@
 <br>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=beautiflow&show_icons=true&theme=radical)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=beautiflow&theme=radical&show_icons=true) 
+<p align="center">
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=beautiflow&theme=radical&show_icons=true) 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beautiflow&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beautiflow&layout=compact) -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beautiflow&layout=compact&hide=html" alt="beautiflow"/>  
+	<img src="https://github-readme-stats.vercel.app/api?username=beautiflow&show_icons=true" alt="beautiflow"/>
+</p>
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=beautiflow&show_icons=true&theme=radical)
- 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beautiflow&layout=compact)
 
 
 
