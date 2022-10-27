@@ -1,9 +1,11 @@
-
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=NaYeonOh%20&animation=scaleIn&fontSize=70)
 
 
 ### Hi there <img width="40px" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"> HELLOnayeon <img width="40px" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif">
 
-🌱 I’m currently learning backendprograms.
+
+
+🌱 I’m currently learning backend_programs.
 
 - CNU SW Academy 1기 수료
 
@@ -47,11 +49,55 @@
 
   <br>
 
-### 📍 Connect with me:
+### <h3 align="center"> 📍 Connect with me  </h3>
 [<img align="left" alt="SOKURI_CODE | Instagram" width="48px" src="https://img.icons8.com/color/48/000000/instagram-new--v2.png" />][instagram]
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:rlatngus1691@naver.com)](mailto:1114ny@naver.com)
 
 [instagram]: https://instagram.com/nayeonee_
+
+<br>
+
+<table align="center">
+    <thead>
+        <tr>
+            <th align="left">WEB</th>
+            <th align="center">URL</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td align="left"><a href="https://beautiflow.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"/></a></td>
+            <td align="center">https://beautiflow.tistory.com/</td>
+        </tr>
+        <tr>
+            <td align="left"><a href="https://blog.naver.com/1114ny"><img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Naver&logoColor=white"/></a></td>
+            <td align="center">https://blog.naver.com/1114ny</td>
+        </tr>
+        <tr>
+            <td align="left"><a href="https://instagram.com/nayeonee_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https://instagram.com/nayeonee_"/></a></td>
+            <td align="center">https://instagram.com/nayeonee_</td>
+       </tr>
+        <tr>
+            <td align="left"><a href="mailto:hellonayeonee@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=hellonayeonee@gmail.com"/></a></td>
+            <td align="center">hellonayeonee@gmail.com</td>
+        </tr>
+    </tbody>
+</table>
+  
+<br>
+<p align="center">
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jokercsi&layout=compact&hide=html" alt="jokercsi"/>  
+	<img src="https://github-readme-stats.vercel.app/api?username=jokercsi&show_icons=true" alt="jokercsi"/>
+</p>
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
+
+
+
+
+
+
+
 
 
 <!--
