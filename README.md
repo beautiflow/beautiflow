@@ -1,13 +1,16 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=NaYeonOh%20&animation=scaleIn&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=HELLOnayeon <img width="40px" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif">%20&animation=scaleIn&fontSize=70)
 
 
-### Hi there <img width="40px" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"> HELLOnayeon <img width="40px" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif">
+### Hi there <img width="40px" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"> 
+<br>
 
 
 
 🌱 I’m currently learning backend_programs.
+<br>
 
 - CNU SW Academy 1기 수료
+<br>
 
 <div align=center><h1>📚 STUDYING STACKS 📚</h1></div>
 
