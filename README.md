@@ -1,7 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=HELLOnayeon%20&animation=scaleIn&fontSize=70)
 
-
-### Hi there <img width="40px" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"> 
+<p align="center">
+<h1 align="center">Hi there <img width="40px" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif">, I'm Nayeon Oh</h1>
+</p>
 <br>
 
 
@@ -9,7 +10,10 @@
 🌱 I’m currently learning backend_programs.
 <br>
 
-- CNU SW Academy 1기 수료
+- CNU SW Academy 1기 (2022.07 ~ )
+- 🎓 Graduate from Chungnam University
+
+
 <br>
 
 <div align=center><h1>📚 STUDYING STACKS 📚</h1></div>
