@@ -49,13 +49,7 @@
 
   <br>
 
-### <h3 align="center"> 📍 Connect with me  </h3>
-[<img align="left" alt="SOKURI_CODE | Instagram" width="48px" src="https://img.icons8.com/color/48/000000/instagram-new--v2.png" />][instagram]
-[![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:rlatngus1691@naver.com)](mailto:1114ny@naver.com)
-
-[instagram]: https://instagram.com/nayeonee_
-
-<br>
+### <h2 align="center"> 📍 Connect with me  </h2>
 
 <table align="center">
     <thead>
