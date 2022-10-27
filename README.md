@@ -2,7 +2,7 @@
 
 - CNU SW Academy 1기 수료
 
-<div align=center><h1>📚 STUDYING STACKS</h1></div>
+<div align=center><h1>📚 STUDYING STACKS 📚</h1></div>
 
 <div align=center> 
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
@@ -23,14 +23,15 @@
 <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white">  
 <br>  
 </div>
-
+<br>
 
 
   <img src="http://mazandi.herokuapp.com/api?handle={beautiflow}&theme=warm"/>
   <br>
   
-  
+<div align=right>
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beautiflow&layout=compact)](https://github.com/beautiflow/github-readme-stats)
+</div>
 
 
 
