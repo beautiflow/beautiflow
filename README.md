@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=HELLOnayeon <img width="40px" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif">%20&animation=scaleIn&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text= HELLOnayeon <img width="40px" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"> %20&animation=scaleIn&fontSize=70)
 
 
 ### Hi there <img width="40px" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"> 
