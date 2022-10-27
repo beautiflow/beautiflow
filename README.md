@@ -39,7 +39,7 @@
 
 
 
-<img src="http://mazandi.herokuapp.com/api?handle={beautiflow}&theme=warm"/>
+
   <br>
 
 ### Connect with me:
