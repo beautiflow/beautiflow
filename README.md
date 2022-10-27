@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=높이&section=header&text=Hi there 👋 HELLOnayeon 🙌 &fontSize=폰트크기">
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=높이&section=header&text=Hi there 👋 HELLOnayeon 🙌 &fontSize=폰트크기")
 
 
 ### Hi there 👋 HELLOnayeon 🙌
