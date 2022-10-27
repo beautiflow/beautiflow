@@ -70,8 +70,8 @@
             <td align="center">https://beautiflow.tistory.com/</td>
         </tr>
         <tr>
-            <td align="left"><a href="https://blog.naver.com/1114ny"><img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Naver&logoColor=white"/></a></td>
-            <td align="center">https://blog.naver.com/1114ny</td>
+            <td align="left"><a href="1114ny@naver.com"><img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Naver&logoColor=white"/></a></td>
+            <td align="center">1114ny@naver.com</td>
         </tr>
         <tr>
             <td align="left"><a href="https://instagram.com/nayeonee_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https://instagram.com/nayeonee_"/></a></td>
