@@ -39,6 +39,12 @@
 <img src="http://mazandi.herokuapp.com/api?handle={beautiflow}&theme=warm"/>
   <br>
 
+### Connect with me:
+[<img align="left" alt="SOKURI_CODE | Instagram" width="48px" src="https://img.icons8.com/color/48/000000/instagram-new--v2.png" />][instagram]
+
+[instagram]: https://instagram.com/nayeonee_
+
+
 <!--
 **beautiflow/beautiflow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
