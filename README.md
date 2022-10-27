@@ -1,4 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=HELLOnayeon%20&animation=scaleIn&fontSize=70)
 
 <p align="center">
 <h1 align="center">Hi there <img width="40px" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif">, I'm Nayeon Oh</h1>
@@ -45,8 +44,7 @@
 
 
 <div align="center">
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=beautiflow&theme=radical&show_icons=true) 
-	
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=beautiflow&theme=radical&show_icons=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beautiflow&layout=compact)
@@ -88,7 +86,7 @@
 </table>
   
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
+
 
 
 
