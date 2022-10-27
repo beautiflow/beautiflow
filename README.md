@@ -38,7 +38,7 @@
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beautiflow&layout=compact)](https://github.com/beautiflow/github-readme-stats)
 
 
-<img src="http://mazandi.herokuapp.com/api?handle={beautiflow}&theme=warm"/>
+
 
 
 
