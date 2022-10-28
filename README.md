@@ -40,16 +40,17 @@
 <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white">  
 <br>  
 </div>
+
+
+
 <br>
 
-
-<div align="center">
+<br>
+<div align="center" float="left">
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=beautiflow&theme=radical&show_icons=true)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beautiflow&layout=compact)
-<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beautiflow&layout=compact&hide=html" alt="beautiflow"/>  
-	<img src="https://github-readme-stats.vercel.app/api?username=beautiflow&show_icons=true" alt="beautiflow"/> -->
+
 </div>
 
 
@@ -66,6 +67,10 @@
         </tr>
     </thead>
     <tbody>
+	<tr>
+            <td align="left"><a href="https://instagram.com/nayeonee_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https://instagram.com/nayeonee_"/></a></td>
+            <td align="center">https://instagram.com/nayeonee_</td>
+       </tr>
         <tr>
             <td align="left"><a href="https://beautiflow.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"/></a></td>
             <td align="center">https://beautiflow.tistory.com/</td>
@@ -73,11 +78,7 @@
         <tr>
             <td align="left"><a href="1114ny@naver.com"><img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Naver&logoColor=white"/></a></td>
             <td align="center">1114ny@naver.com</td>
-        </tr>
-        <tr>
-            <td align="left"><a href="https://instagram.com/nayeonee_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https://instagram.com/nayeonee_"/></a></td>
-            <td align="center">https://instagram.com/nayeonee_</td>
-       </tr>
+	    </tr>
         <tr>
             <td align="left"><a href="mailto:hellonayeonee@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=hellonayeonee@gmail.com"/></a></td>
             <td align="center">hellonayeonee@gmail.com</td>
