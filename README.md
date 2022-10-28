@@ -12,7 +12,6 @@
 - CNU SW Academy 1기 (2022.07 ~ )
 - 🎓 Graduate from Chungnam University
 
-
 <br>
 
 <div align=center><h1>📚 STUDYING STACKS 📚</h1></div>
@@ -47,8 +46,10 @@
 
 <br>
 <div align="center" float="left">
+	
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=beautiflow&theme=radical&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beautiflow&layout=compact)
+	
 </div>
 
 
