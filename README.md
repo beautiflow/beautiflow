@@ -14,7 +14,7 @@
 
 <br>
 
-<div align=center><h1>📚 STUDYING STACKS 📚</h1></div>
+<!-- <div align=center><h1>📚 STUDYING STACKS 📚</h1></div>
 
 <div align=center> 
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
@@ -39,7 +39,7 @@
 <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white">  
 <br>  
 </div>
-
+ -->
 
 
 <br>
