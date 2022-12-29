@@ -7,7 +7,7 @@
 🌱 I’m currently learning backend_programs.
 <br>
 
-- CNU SW Academy 1기 (2022.07. ~ 2022.10.)
+<!-- - CNU SW Academy 1기 (2022.07. ~ 2022.10.) -->
 - 🎓 Graduate from Chungnam University
 
 <br>
