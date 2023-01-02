@@ -47,7 +47,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beautiflow&layout=compact)
 </div>
   <br> -->
- <h2 align="center"> 📍 Connect with me  </h2>
+<!--  <h2 align="center"> 📍 Connect with me  </h2>
 <table align="center">
     <thead>
         <tr>
@@ -74,7 +74,7 @@
         </tr>
     </tbody>
 </table>
-  
+   -->
 
 
 
