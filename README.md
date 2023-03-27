@@ -12,7 +12,7 @@
 
 <br>
 
- <div><h2>📚 STUDYING STACKS 📚</h2></div>
+<!--  <div><h2>📚 STUDYING STACKS 📚</h2></div> -->
 
 <div > 
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
