@@ -39,7 +39,7 @@
 </div>
 
 
-
+<!-- 
 <br>
 <br> 
 <div float="left">
@@ -47,7 +47,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=beautiflow&theme=radical&show_icons=true)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beautiflow&layout=compact) 
 	
 </div>
-  <br>
+  <br> -->
   
   
 <!--  <h2 align="center"> 📍 Connect with me  </h2>
