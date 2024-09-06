@@ -4,7 +4,7 @@
 </p>
 <br>
 
-🌱 I’m currently learning backend_programs.
+🌱 I’m Web Developer.
 <br>
 
 <!-- - CNU SW Academy 1기 (2022.07. ~ 2022.10.) -->
